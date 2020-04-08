@@ -1,0 +1,305 @@
+#main-wrapper
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+} 
+.IWMS
+{
+	width:150px;
+	text-align:center;
+}
+.loginpage
+{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues
+{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+
+
+.signuppage
+{
+	width:450px;
+	margin:0 auto;
+}
+
+.homepage
+{
+	width:450px;
+	margin:0 auto;
+}
+
+.paymentpage
+{
+	width:450px;
+	margin:0 auto;
+}
+
+#main-wrapper3
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+}
+
+#main-wrapper2
+{
+	width:800px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.95;
+} 
+#main-wrapper4
+{
+	width:800px;
+	margin: 0 auto;
+	background:#2d3436;
+	padding:5px;
+	border-radius:10px;
+	opacity:0.80;
+}
+#main-wrapper5
+{
+	width:100%;
+	margin: 0 auto;
+	background:#2d3436;
+	padding:5px;
+	border-radius:10px;
+	opacity:0.80;
+}
+#main-wrapper6
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+} 
+.inputbookvalues
+{
+	width:150px;
+	padding:5px;
+}
+
+#book_btn
+{
+	background-image:linear-gradient(to bottom right,#009432,#27ae60);
+	width:50%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+#logout_btn
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+.homepage2
+{
+	width:600px;
+	margin:0 auto;
+}
+#Signup_btn
+{
+	background-image:linear-gradient(to bottom right,#273c75,#0652DD);
+	width:70%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#back_btn
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+#wlogin_btn
+{
+	background-image:linear-gradient(to bottom right,#009432,#27ae60);
+	width:10%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+#wsignup_btn
+{
+	background-image:linear-gradient(to bottom right,#273c75,#0652DD);
+	width:10%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+#login_btn
+{
+	background-image:linear-gradient(to bottom right,#009432,#27ae60);
+	width:70%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	outline:none;
+}
+
+#proceed_btn
+{
+	background-color:green;
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#back_btn
+{
+	background-color:#e74c3c;
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#login_btn
+{
+	background-color:green;
+	width:70%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#signup_btn
+{
+	margin-bottom:20px;
+	background-image:linear-gradient(to bottom right,#273c75,#0652DD);
+	width:50%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}#logout_btn2
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:10%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+ #logout_btn3
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:10%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#check_btn
+{
+	background-image:linear-gradient(to bottom right,#009432,#27ae60);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+
+#main-wrapper3
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+}
+#table1
+{
+	background-color:#b2bec3;
+}
+ #bthp
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:20%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}

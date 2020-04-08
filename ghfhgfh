@@ -1,0 +1,15 @@
+"update booking set payment_id=".$_SESSION['pid']."where booking_id='".$_SESSION['boid']."'";
+
+
+$tan=tan;
+			$query="SELECT b.booking_id,b.from_date,b.to_date,p.payment_id,c.c_id FROM booking INNER JOIN payment as p ON b.payment_id=p.payment_id INNER JOIN confirmed as c ON p.c_id=c.c_id where b.booking_id='$tan'";
+			$query_run=mysqli_query($con,$query);
+			echo $tan;
+			if(mysqli_num_rows($query_run)>0)
+			{
+				echo '<script type="text/javascript"> alert("Found") </script>';
+			}
+			else
+			{
+				echo '<script type="text/javascript"> alert("Error!") </script>';
+			}
